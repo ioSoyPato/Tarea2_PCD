@@ -9,3 +9,6 @@ En el repositorio Tarea2_PCD vemos un tema crucialmente importante que es __la i
 - Branch <>
 - CheckOut
 
+### El repo contiene
+
+El repo contiene dos ramas donde main contiene solo el readme y el feature contiene un ipynb con un resumen
